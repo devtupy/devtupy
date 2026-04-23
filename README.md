@@ -7,9 +7,13 @@
 
 ## 🚀 Sobre mim
 
-Atuo com suporte técnico, resolução de incidentes e troubleshooting em ambiente corporativo.
-
-Atualmente direcionando minha carreira para a área de segurança da informação.
+Profissional de tecnologia com sólida experiência em infraestrutura de TI e segurança 
+operacional, atuando na proteção de ambientes corporativos de missão crítica. Possuo 
+vivência prática em gestão e resposta a incidentes (ITIL) e fui o responsável técnico pela 
+migração segura de usuários entre domínios, garantindo a integridade e confidencialidade 
+dos dados. Busco ativamente uma posição em Cibersegurança para aplicar meu 
+conhecimento técnico em resposta a incidentes, hardening de sistemas e fortalecimento 
+da postura de segurança da organização. 
 
 ---
 
