@@ -19,6 +19,15 @@ Em transição para Cibersegurança, com foco em Blue Team, hardening de sistema
 
 ## 🛠️ Tecnologias & Ferramentas
 
+## 🔐 Cybersecurity
+
+<p>
+<img src="https://img.shields.io/badge/-Cybersecurity-black?style=for-the-badge&logo=hackthebox"/>
+<img src="https://img.shields.io/badge/-Blue%20Team-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Network%20Security-darkgreen?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-SIEM-grey?style=for-the-badge"/>
+</p>
+
 <p>
 <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux"/>
@@ -27,6 +36,17 @@ Em transição para Cibersegurança, com foco em Blue Team, hardening de sistema
 <img src="https://img.shields.io/badge/-Wireshark-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/-Nmap-darkgreen?style=for-the-badge"/>
 </p>
+
+## 🖥️ Sistemas & Ferramentas
+
+<p>
+<img src="https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux"/>
+<img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows"/>
+<img src="https://img.shields.io/badge/-Active%20Directory-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-DNS-DarkBlue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-DHCP-9cf?style=for-the-badge"/>
+</p>
+
 
 ---
 
