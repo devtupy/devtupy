@@ -7,7 +7,6 @@
 ---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8000FF&height=120&section=header"/>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8000FF&height=120&section=footer"/>
 
 ## 🚀 Sobre mim
 
@@ -17,6 +16,7 @@ Experiência prática em resposta a incidentes (ITIL) e migração segura de usu
 
 Em transição para Cibersegurança, com foco em Blue Team, hardening de sistemas e defesa de ambientes corporativos.
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8000FF&height=120&section=footer"/>
 
 ---
 
