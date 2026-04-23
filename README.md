@@ -9,10 +9,10 @@
 
 ## 🚀 Sobre mim
 
-* 💻 Suporte e infraestrutura em ambientes corporativos
-* 🔐 Gestão e resposta a incidentes (ITIL)
-* 🛡️ Segurança operacional e proteção de dados
-* 🚀 Foco em Cybersecurity (Blue Team | Hardening | SOC)
+* 💻 Suporte e infraestrutura em ambientes corporativos;
+* 🔐 Gestão e resposta a incidentes (ITIL);
+* 🛡️ Segurança operacional e proteção de dados;
+* 🚀 Foco em Cybersecurity (Blue Team | Hardening | SOC).
 
 ---
 
