@@ -19,34 +19,28 @@ Em transição para Cibersegurança, com foco em Blue Team, hardening de sistema
 
 ## 🛠️ Tecnologias & Ferramentas
 
-## 🔐 Cybersecurity
+### 🔐 Segurança
 
 <p>
-<img src="https://img.shields.io/badge/-Cybersecurity-black?style=for-the-badge&logo=hackthebox"/>
-<img src="https://img.shields.io/badge/-Blue%20Team-0A66C2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/-Network%20Security-darkgreen?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/-SIEM-grey?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Cybersecurity-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/-Blue%20Team-0A66C2?style=flat-square"/>
+<img src="https://img.shields.io/badge/-Network%20Security-darkgreen?style=flat-square"/>
 </p>
+
+### 🖥️ Sistemas
 
 <p>
-<img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux"/>
-<img src="https://img.shields.io/badge/-Git-orange?style=for-the-badge&logo=git"/>
-<img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/-Wireshark-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/-Nmap-darkgreen?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows"/>
+<img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux"/>
 </p>
 
-## 🖥️ Sistemas & Ferramentas
+### 🌐 Redes
 
 <p>
-<img src="https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux"/>
-<img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows"/>
-<img src="https://img.shields.io/badge/-Active%20Directory-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/-DNS-DarkBlue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/-DHCP-9cf?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-TCP%2FIP-grey?style=flat-square"/>
+<img src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square"/>
+<img src="https://img.shields.io/badge/-Nmap-004170?style=flat-square"/>
 </p>
-
 
 ---
 
