@@ -8,7 +8,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8000FF&height=120&section=header"/>
 ## 🚀 Sobre mim
-
 Profissional de TI com experiência em infraestrutura e segurança operacional, atuando em ambientes corporativos críticos.
 
 Experiência prática em resposta a incidentes (ITIL) e migração segura de usuários entre domínios, garantindo a proteção e integridade dos dados.
