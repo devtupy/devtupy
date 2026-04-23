@@ -75,6 +75,5 @@ Me tornar um profissional de Cybersecurity atuando com SOC, Blue Team ou Pentest
 
 ## 📫 Contato
 
-📎 LinkedIn: (coloque aqui)
-📧 Email: (opcional)
+📎 LinkedIn: https://www.linkedin.com/in/cristiano-tupynamb%C3%A1-860316283/
 
