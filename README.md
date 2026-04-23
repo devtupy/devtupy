@@ -1,40 +1,60 @@
-## 👋 Olá, eu sou Cristiano Tupynamba
+<h1 align="center">👋 Olá, eu sou Cristiano Tupynamba</h1>
 
-🎯 Analista de Suporte na Atos (Stellantis)
-
-🔐 Em transição para Cybersecurity
+<p align="center">
+🎯 Analista de Suporte | 🔐 Focado em Cybersecurity
+</p>
 
 ---
 
 ## 🚀 Sobre mim
 
-Profissional de tecnologia com sólida experiência em infraestrutura de TI e segurança 
-operacional, atuando na proteção de ambientes corporativos de missão crítica. Possuo 
-vivência prática em gestão e resposta a incidentes (ITIL) e fui o responsável técnico pela 
-migração segura de usuários entre domínios, garantindo a integridade e confidencialidade 
-dos dados. Busco ativamente uma posição em Cibersegurança para aplicar meu 
-conhecimento técnico em resposta a incidentes, hardening de sistemas e fortalecimento 
-da postura de segurança da organização. 
+Profissional de TI com experiência em infraestrutura e segurança operacional, atuando em ambientes corporativos críticos.
+
+Experiência prática em resposta a incidentes (ITIL) e migração segura de usuários entre domínios, garantindo a proteção e integridade dos dados.
+
+Em transição para Cibersegurança, com foco em Blue Team, hardening de sistemas e defesa de ambientes corporativos.
+
 
 ---
 
-## 🛠️ Conhecimentos
+## 🛠️ Tecnologias & Ferramentas
 
-* Redes (TCP/IP, DNS, DHCP)
-* Windows / Linux
-* Git & GitHub
-* Wireshark
-* Nmap
+<p>
+<img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux"/>
+<img src="https://img.shields.io/badge/-Git-orange?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/-Wireshark-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Nmap-darkgreen?style=for-the-badge"/>
+</p>
 
 ---
 
-## 📂 Projetos
+## 📂 Projetos em destaque
 
-* Projetos de Redes
-* Estudos de Cybersecurity (em construção)
+🔹 [📡 Projetos de Redes](https://github.com/devtupy/projetos-redes)
+🔹 [🔐 Cybersecurity Labs](https://github.com/devtupy/cybersecurity-labs)
+🔹 [⚙️ Scripts de Automação](https://github.com/devtupy/scripts-automacao)
+
+---
+
+## 📈 Estatísticas GitHub
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=devtupy&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devtupy&theme=tokyonight"/>
+</p>
 
 ---
 
 ## 🎯 Objetivo
 
-Atuar profissionalmente na área de Cybersecurity (SOC / Pentest / Blue Team)
+Me tornar um profissional de Cybersecurity atuando com SOC, Blue Team ou Pentest.
+
+---
+
+## 📫 Contato
+
+📎 LinkedIn: (coloque aqui)
+📧 Email: (opcional)
+
