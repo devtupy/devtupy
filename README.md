@@ -1,3 +1,4 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8000FF&height=120&section=header"/>
 <h1 align="center">👋 Olá, eu sou Cristiano Tupynamba</h1>
 
 <p align="center">
@@ -6,7 +7,6 @@
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8000FF&height=120&section=header"/>
 ## 🚀 Sobre mim
 
 * 💻 Suporte e infraestrutura em ambientes corporativos
