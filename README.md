@@ -6,6 +6,9 @@
 
 ---
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8000FF&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8000FF&height=120&section=footer"/>
+
 ## 🚀 Sobre mim
 
 Profissional de TI com experiência em infraestrutura e segurança operacional, atuando em ambientes corporativos críticos.
@@ -75,5 +78,18 @@ Me tornar um profissional de Cybersecurity atuando com SOC, Blue Team ou Pentest
 
 ## 📫 Contato
 
-📎 LinkedIn: https://www.linkedin.com/in/cristiano-tupynamb%C3%A1-860316283/
+<p align="center">
 
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/cristiano-tupynamb%C3%A1-860316283/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:cristianotupyr@gmail.com">
+  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/devtupy" target="_blank">
+  <img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
