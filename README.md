@@ -1,16 +1,35 @@
-## Hi there 👋
+## 👋 Olá, eu sou Cristiano Tupynamba
 
-<!--
-**devtupy/devtupy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Analista de Suporte na Atos (Stellantis)
+🔐 Em transição para Cybersecurity
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+Atuo com suporte técnico, resolução de incidentes e troubleshooting em ambiente corporativo.
+
+Atualmente direcionando minha carreira para a área de segurança da informação.
+
+---
+
+## 🛠️ Conhecimentos
+
+* Redes (TCP/IP, DNS, DHCP)
+* Windows / Linux
+* Git & GitHub
+* Wireshark
+* Nmap
+
+---
+
+## 📂 Projetos
+
+* Projetos de Redes
+* Estudos de Cybersecurity (em construção)
+
+---
+
+## 🎯 Objetivo
+
+Atuar profissionalmente na área de Cybersecurity (SOC / Pentest / Blue Team)
