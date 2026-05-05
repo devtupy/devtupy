@@ -47,7 +47,7 @@
 
 🔹 [📡 Projetos de Redes](https://github.com/devtupy/projetos-redes)
 🔹 [🔐 Cybersecurity Labs](https://github.com/devtupy/cybersecurity-labs)
-🔹 [⚙️ Scripts de Automação](https://github.com/devtupy/scripts-automacao)
+🔹 [⚙️ Windows-GPO-Monitor](https://github.com/devtupy/windows-gpo-monitor)
 
 ---
 
