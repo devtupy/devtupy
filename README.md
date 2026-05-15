@@ -48,6 +48,7 @@
 🔹 [📡 Projetos de Redes](https://github.com/devtupy/projetos-redes)
 🔹 [🔐 Cybersecurity Labs](https://github.com/devtupy/cybersecurity-labs)
 🔹 [⚙️ Windows-GPO-Monitor](https://github.com/devtupy/windows-gpo-monitor)
+🔹 [🚀 KQL-Sentinel-Lab](https://github.com/devtupy/KQL-Sentinel-Lab)
 
 ---
 
